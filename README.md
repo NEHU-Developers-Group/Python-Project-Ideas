@@ -9,3 +9,4 @@
 * Music player
 * Desktop notifier 
 * Python program to schedule programs based on computer events based on google calender
+* Taking attendence using facial recognition
